@@ -1,0 +1,42 @@
+body {
+    width: 100% auto;
+    margin: 0 auto;
+    background-color: transparent;
+    margin-top: 15%;
+    margin-left: 30%;
+}
+
+
+
+.welcome {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#firstName {
+    width: 100% auto;
+    height: 30px;
+    margin-top: 0 auto;
+    margin-right: 150px;
+    margin-left: 10px;
+}
+
+.btn {
+    margin-left: 13px;
+}
+
+input {
+    display: inline-block;
+    margin-top: 0 auto;
+
+}
+
+@media (max-width: 480px) {
+    body {
+        width: 100% auto;
+        margin: 0 auto;
+        background-color: transparent;
+        margin-top: 15%;
+        margin-left: 9%;
+    }
+}
